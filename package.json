@@ -18,9 +18,9 @@
     "url": "https://github.com/MrRio/jsPDF.git"
   },
   "dependencies": {
-    "adler32cs": "git://github:chick307/adler32cs.js",
+    "adler32cs": "git://github/chick307/adler32cs.js",
     "cf-blob.js": "0.0.1",
-    "filesaver.js": "git://github:andyinabox/FileSaver.js"
+    "filesaver.js": "git://github/andyinabox/FileSaver.js"
   },
   "devDependencies": {
     "babel-preset-es2015": "6.24.1",
